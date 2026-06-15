@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 konichiwa
 
 ## 🏆Competitive Programing
-[![ohirugohan](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fohirugohan)](https://atcoder.jp/users/ohirugohan)
+
+[![Rating](https://badgen.org/img/atcoder/ohirugohan/rating/algorithm?style=flat&label=Atcoder)](https://atcoder.jp/users/ohirugohan?contestType=algo)
