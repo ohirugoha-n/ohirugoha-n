@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-konichiwa
+こんにちは
 
-## 🏆Competitive Programing
 
 [![Rating](https://badgen.org/img/atcoder/ohirugohan/rating/algorithm?style=flat&label=Atcoder)](https://atcoder.jp/users/ohirugohan?contestType=algo)
